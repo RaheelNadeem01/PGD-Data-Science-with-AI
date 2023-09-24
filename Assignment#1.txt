@@ -1,0 +1,5 @@
+1.https://github.com/RaheelNadeem01/PGD-Data-Science-with-AI/blob/main/Print%20Hello%20World.py
+2.https://github.com/RaheelNadeem01/PGD-Data-Science-with-AI/blob/main/Print%2520Hell%E2%80%A6%20-%20JupyterLab.html
+3.https://github.com/RaheelNadeem01/PGD-Data-Science-with-AI/blob/main/Print(Hello_World).ipynb
+4.https://github.com/RaheelNadeem01/PGD-Data-Science-with-AI/blob/main/Hello%20World%20by%20VS%20code.py
+5.we can write "Hello World" by CMD prompt
